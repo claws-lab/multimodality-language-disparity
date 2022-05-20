@@ -26,3 +26,13 @@ In this work, we consider three social computing tasks that have existing multim
 
 As part of our evaluation, we create human-translated subset of the CrisisMMD dataset. The human-translated subset contains about ~200 multimodal examples in English, each translated to Spanish, Portuguese, French, Chinese, and Hindi (a total of ~1200 translations). The translations for five non-English languages are available in `human-translated-eval-set/`. The Twitter IDs for the original examples from the CrisisMMD dataset are available in the file names `human-translated-eval-set/tweet_ids.txt` – the lines in rest of the translation files correspond to these IDs. 
 
+# Bibtex
+
+```
+@inproceedings{verma2022overcoming,
+    title={Overcoming Language Disparity in Online Content Classification with Multimodal Learning},
+    author={Verma, Gaurav and Mujumdar, Rohit and Wang, Zijie J and De Choudhury, Munmun and Kumar, Srijan},
+    booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+    year={2022}
+}
+```
